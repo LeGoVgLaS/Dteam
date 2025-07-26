@@ -1,0 +1,86 @@
+body {
+  background-color: #111111;
+}
+nav {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  background-color: #191919;
+}
+.bombocklyak {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: -20000000;
+}
+.heavy {
+  color: white;
+  font-size: 45px;
+}
+.Pyro {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.sniper {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 618px;
+
+
+  border-radius: 25px;
+  margin: 88px;
+  margin-left: 700px;
+  margin-right: 700px;
+  padding: 20px;
+}
+.scout{
+
+     display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+ 
+  height: 618px;
+
+  background: rgba(37, 37, 37, 0.88);
+  border-radius: 25px;
+  margin: 120px;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 20px;
+}
+.debil{
+
+  background: rgba(37, 37, 37, 0.88);
+  border-radius: 25px;
+  margin: 130px;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 20px;
+}
+.grati{
+    color: white;
+    background-color:rgb(0, 196, 16) ;
+    border-radius: 25px;
+    margin-right: 780px;
+    width:100px ;
+    height:30px ;
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    left: 690px;
+    top: 1054px;
+
+}
+.gg{
+  color: white;
+}
